@@ -5,9 +5,10 @@ public class Main {
 
         System.out.println("this is fro having again");
       System.out.println("this is fro having2");
+        System.out.println("having just for pull");
         }
 
         
-    }
+    
 
 }
